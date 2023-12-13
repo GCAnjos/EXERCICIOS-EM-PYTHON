@@ -15,3 +15,4 @@ if continua == 'S':
     print(f'Voçê digitou o numero: {cont[num2]}')
 else:
     print('Fim.')
+
