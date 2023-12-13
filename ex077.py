@@ -6,3 +6,4 @@ for p in palavras:
     for letra in p:
         if letra.lower() in 'aáâãeéêiou':
             print(letra, end=' ')
+
