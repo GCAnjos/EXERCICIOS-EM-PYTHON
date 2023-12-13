@@ -22,3 +22,4 @@ for i, v in enumerate(listanum):
     if v == men:
         print(f'{i}...', end='')
 print()
+
