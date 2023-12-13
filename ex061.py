@@ -9,3 +9,4 @@ while cont <= 10:
     termo = termo + razao
     cont += 1
 print('FIM')
+
