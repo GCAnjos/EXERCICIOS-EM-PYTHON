@@ -10,3 +10,4 @@ print('A media de {}m corresponde a {}dm.'.format(medida, dm))
 print('A media de {}m corresponde a {}dam.'.format(medida, dam))
 print('A media de {}m corresponde a {}hm.'.format(medida, hm))
 print('A media de {}m corresponde a {}km.'.format(medida, km))
+
