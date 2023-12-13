@@ -8,3 +8,4 @@ if prestaçao <= minimo:
     print('Emprestimo pode ser CONCEDIDO!')
 else:
     print('Emprestimo NEGADO!')
+
