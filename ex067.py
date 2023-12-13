@@ -7,3 +7,4 @@ while True:
         print(f'{n} x {c} = {n*c}')
     print('-' * 30)
 print('Programa tabuada encerrado. Volte sempre!')
+
