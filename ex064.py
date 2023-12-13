@@ -5,3 +5,4 @@ while nun != 999:
     cont += 1
     nun = int(input('Digite um numero [999 para parar]: '))
 print('Voçê digitou {} numeros e a soma entre ele e {}.'.format(cont, soma))
+
