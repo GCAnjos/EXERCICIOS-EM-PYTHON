@@ -7,3 +7,4 @@ lista = [n1, n2, n3, n4]
 random.shuffle(lista)
 print('A ordem de apresentação sera:')
 print(lista)
+
