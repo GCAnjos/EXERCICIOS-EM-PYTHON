@@ -8,3 +8,4 @@ print('Unidade : {}'.format(u))
 print('Dezene: {}'.format(d))
 print('Centena: {}'.format(c))
 print('Milhar: {}'.format(m))
+
