@@ -14,3 +14,4 @@ print(f'Em ordem alfabetica: {sorted(times)}')
 print('-=' * 15)
 print(f'O Cruzeiro está na {times.index("Cruzeiro")} posição')
 print('-=' * 15)
+
