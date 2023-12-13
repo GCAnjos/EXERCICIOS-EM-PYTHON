@@ -12,3 +12,4 @@ elif imc <= 30.1 and imc < 40:
     print('COM OBESIDADE')
 else:
     print('COM OBESIDADE MORBIDA')
+
