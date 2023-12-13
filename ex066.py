@@ -7,3 +7,4 @@ while True:
     soma += num
 print(f'A soma dos {cont} valores foi {soma}!')
 
+
