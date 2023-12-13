@@ -4,3 +4,4 @@ print('O salário de {:.2f} com 15% de aumento passa a receber R${:.2f}!'.format
 
 #no caso a conta para achar o novo salario e de 15 vez o salario dividido 100 mais o salario.
 #fazer na calculadora da certo
+
