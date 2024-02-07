@@ -27,3 +27,4 @@ print(f'O menor peso foi de {menor}Kg. Peso de ', end='')
 for p in princ:
     if p[1] == menor:
         print(f'{p[0]}. ', end='')
+        
