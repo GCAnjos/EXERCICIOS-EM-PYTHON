@@ -8,3 +8,4 @@ def escreva(msg):
 escreva('Gabriel Cardoso')
 escreva('Estudante da Estásio')
 escreva('Procurando um estágio')
+
