@@ -8,3 +8,4 @@ print('-' * 20)
 l = float(input('LARGURA (M): '))
 c = float(input('COMPRIMENTO (M): '))
 area(l, c)
+
