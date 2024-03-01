@@ -23,3 +23,4 @@ def notas(*n, sit=False):
 resp = notas(5.5, 2.5, 8.5, sit=True)
 print(resp)
 help(notas)
+
